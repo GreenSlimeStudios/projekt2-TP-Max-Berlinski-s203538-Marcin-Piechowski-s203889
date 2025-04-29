@@ -1,4 +1,0 @@
-/home/max/development/projekt2-tp/build/CMakeFiles/main.dir
-/home/max/development/projekt2-tp/build/CMakeFiles/tests.dir
-/home/max/development/projekt2-tp/build/CMakeFiles/edit_cache.dir
-/home/max/development/projekt2-tp/build/CMakeFiles/rebuild_cache.dir
