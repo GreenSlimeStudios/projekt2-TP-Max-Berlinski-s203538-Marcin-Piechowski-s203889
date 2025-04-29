@@ -2,7 +2,8 @@
 projekt zrobiony przez Max Berliński s203538 i Marcin Piechowski s203889
 
 # kompilacja
-```mkdir build
+```
+mkdir build
 cd build
 cmake ..
 make
